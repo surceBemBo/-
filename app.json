@@ -1,6 +1,6 @@
 {
     "name": "جبـــــــــريل مـــيوزك",
-    "description": "⿻↬───𝑩𝑬𝑴𝑩Θ 𝐌𝐔𝐒𝐈𝐂🐥───  @gebreelyad  🤍🦦  قناه الســـورس",
+    "description": "⿻↬─── 𝐌𝐔𝐒𝐈𝐂🐥───  @gebreelyad  🤍🦦  قناه الســـورس",
     "logo": "https://telegra.ph/file/40e71832884764f066974.jpg",
     "keywords": [
         "py-tgcalls",
@@ -12,8 +12,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/gebreelyad",
-    "repository": "https://github.com/soursafyona/CVGAFYONA",
-    "success_url": "https://t.me/UUBU0",
+    "repository": "https://github.com/surceBemBo/-/commits?author=surceBemBo",
+    "success_url": "https://t.me/gebreelsabry",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -30,12 +30,12 @@
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": "K61TBot"
+            "value": "Gebreel_1111bot"
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": "IVNII"
+            "value": "kengeleba"
         },
         "SESSION_NAME": {
             "description": "قم بوضع كود تيرمكس هنا",
@@ -44,22 +44,22 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": "5520469387"
+            "value": "1089160779"
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "UUBU0"
+            "value": "gebreelsabry"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "B_e_m_0"
+            "value": "gebreelyad"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "O1BOO"
+            "value": "elbabayakelab"
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا",
@@ -76,7 +76,7 @@
         "ALIVE_NAME": {
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
-            "value": "𝑨𝑭𝒀𝑶𝑵𝑨 𝑴𝑼𝑺𝑰𝑪🦦."
+            "value": "gprel music"
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
@@ -86,7 +86,7 @@
         "UPSTREAM_REPO": {
             "description": "لا تغيره!",
             "required": true,
-            "value": "https://github.com/soursafyona/CVGAFYONA"
+            "value": "https://github.com/surceBemBo/-/commits?author=surceBemBo"
         }
     },
     "addons": [],
