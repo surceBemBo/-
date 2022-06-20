@@ -73,7 +73,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "•🦥 𝑩𝑬𝑴𝑩Θ 𝐌𝐔𝐒𝐈𝐂 🦥•", url="https://t.me/B_e_m_0",
+                        " الـــســـــورس ", url="https://t.me/gebreelyad",
                     )
                 ],
                 [InlineKeyboardButton("", callback_data="cbhowtouse")],
@@ -144,7 +144,7 @@ async def help(client: Client, message: Message):
      )
   )
 
-@Client.on_message(command(["لب التوكن", f"لب_التوكن", "bemo"]) & filters.private & ~filters.edited)
+@Client.on_message(command(["لب التوكن", f"لب_التوكن", "جبريل"]) & filters.private & ~filters.edited)
 @sudo_users_only
 async def shadow(c: Client, message: Message):
     start = time()
@@ -210,7 +210,7 @@ async def new_chat(c: Client, m: Message):
                         [
                             InlineKeyboardButton(
                         "🐥اضـف الـبـوت لـمـجـمـوعـتـك🐥",
-                        url=f'https://t.me/K61TBot?startgroup=true'),
+                        url=f'https://t.me/Gebreel_1111bot?startgroup=true'),
                         ],
                     ]
                 )
