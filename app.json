@@ -38,7 +38,7 @@
             "value": "kengeleba"
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "قم بوضع كود بيروجرام هنا",
             "required": true
         },
         "SUDO_USERS": {
